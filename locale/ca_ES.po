@@ -7,5 +7,5 @@ msgid "Comment"
 msgstr "Comentario"
 
 msgctxt "view:party.party:"
-msgid "Comments"
-msgstr "Comentarios"
+msgid "Info"
+msgstr "Informació"
