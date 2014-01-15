@@ -5,7 +5,8 @@ copyright notices and license types. -->
 <data>
     <xpath expr="/form/notebook" position="inside">
         <page string="Info" id="info">
-            <field name="comment" colspan="4"/>
+            <separator name="comment" colspan="6"/>
+            <field name="comment" colspan="6"/>
         </page>
     </xpath>
 </data>
